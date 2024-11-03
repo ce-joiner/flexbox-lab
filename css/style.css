@@ -3,9 +3,10 @@
 }
 
 body {
+    margin: 0;
+   
     background-color: gray;
     font-family: system-ui, sans-serif;
-    margin: 0;
 }
 
 nav {
